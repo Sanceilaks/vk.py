@@ -1,0 +1,6 @@
+yarl
+watchgod
+aiohttp
+pydantic
+async-generator;python_version<"3.7"
+contextvars;python_version<"3.7"

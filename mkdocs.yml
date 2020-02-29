@@ -1,0 +1,16 @@
+site_name: VK.PY - Modern VKAPI library for Python.
+nav:
+  - Get started: index.md
+  - First steps:
+      - Install: first-steps/install.md
+      - First steps VK: first-steps/vk.md
+      - Background task: first-steps/background.md
+      - Auth: first-steps/auth.md
+theme:
+  name: 'material'
+markdown_extensions:
+  - admonition
+  - codehilite
+
+repo_name: 'prostomarkeloff/vk.py'
+repo_url: 'https://github.com/prostomarkeloff/vk.py'
