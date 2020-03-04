@@ -4,8 +4,7 @@
 
 # WARNING:
 > Dev branch was merged to master but 1.0.0 hasn't still been completed. Check `dev` branch.
-<br/>
-> I'm not the author of VK.PY, I'm a maintainer.
+<br/>I'm not the author of VK.PY, I'm a maintainer.
 # Welcome to vk.py 👋
 
 ![Version](https://img.shields.io/badge/version-0.6.0-blue.svg?cacheSeconds=2592000) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ](https://github.com/triedgriefdev/vk.py/blob/master/LICENSE)
