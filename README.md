@@ -120,10 +120,6 @@ When `1.0.0` will be released? - We don't know. We hope that it's moment will co
 
 * Github: [@prostomarkeloff](https://github.com/prostomarkeloff)
 
-👤 **triedgriefdev** - Maintainer
-
-* Github: [@triedgriefdev](https://github.com/triedgriefdev)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/triedgriefdev/vk.py/issues).
